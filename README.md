@@ -126,10 +126,15 @@ reports/
     └── heatmap_full_window.png
 
 **🧠 Summary of Findings**
+
 Operational changes alone were not enough to significantly impact acceptance.
+
 Pricing incentives had minimal behavioral impact.
+
 Distance remains the strongest predictor of acceptance.
+
 Vendor-specific SLA constraints (e.g., TosiFood) have outsized influence compared to global SLA or pricing changes.
+
 Future initiatives should focus on vendor-level SLA redesign, not generic global adjustments.
 
 **📝 License**
