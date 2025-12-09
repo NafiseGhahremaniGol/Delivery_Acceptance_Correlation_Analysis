@@ -22,12 +22,20 @@ Improve delivery acceptance rate → improve SLA performance
 Correlation analysis before/after policy changes
 
 **📊 Dataset**
+
+
 The dataset includes operational-level features:
+
 Accepted (target variable)
+
 Pickup_Distance, Delivery_Distance, TotalDistance
+
 Pickup_Cost, Delivery_Cost, TotalCost
+
 VendorId and mapped vendor groups
+
 StartProposeToDeadlineMinutes
+
 Date_Key, Hour_Key
 
 Vendor groups:
@@ -39,6 +47,7 @@ VendorId	Group Name
 Other	Other Vendors
 
 **⚠️ Data Confidentiality Notice**
+
 <span style="color:red; font-weight:bold;">Raw operational data is NOT included in this repository due to confidentiality restrictions.</span>
 
 **🧪 Methodology**
@@ -46,12 +55,17 @@ Three correlation heatmaps were generated to analyze changes over time:
 
 1️⃣ Pre-Change Window
 📅 Nov 22–30 (1–9 Azar)
+
 Baseline performance before SLA and pricing adjustments.
+
 2️⃣ Post-Change Window
 📅 Dec 1–6 (10–15 Azar)
+
 After the propose-deadline modification and pickup cost increase.
+
 3️⃣ Full Analysis Window
 📅 Nov 22–Dec 6 (1–15 Azar)
+
 Combined view to detect broader structural patterns.
 
 **🎛 Preprocessing Notes**
