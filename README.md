@@ -6,6 +6,7 @@ Analyzing the impact of SLA and pricing policy changes on delivery acceptance ra
 This project evaluates how two major operational and pricing interventions impacted driver acceptance behavior in a delivery platform.
 
 **🔧 Policy Changes Introduced**
+
 1️⃣ Updated Propose-Deadline Windows
 Effective: December 1, 2025 (10 Azar 1404)
 Objective: Provide more reasonable SLA windows to increase acceptance likelihood.
@@ -112,9 +113,11 @@ Vendor-specific SLA constraints (e.g., TosiFood) have outsized influence compare
 Future initiatives should focus on vendor-level SLA redesign, not generic global adjustments.
 
 **📝 License**
+
 MIT License
 
 **👤 Author**
+
 Nafise Ghahremani Gol
 Product Data Analytics & Data Science
 
