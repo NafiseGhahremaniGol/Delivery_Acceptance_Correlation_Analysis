@@ -62,11 +62,14 @@ White: no correlation
 Dark Green: strong positive correlation
 
 **🔍 Key Insights**
+
 ⭐ 1. Pickup Price Increase Did Not Improve Acceptance
+
 Across all time windows:
 Pickup_Cost correlation with acceptance remained near zero (0.02–0.09).
 
 ➡️ Flat monetary incentives alone did not meaningfully change behavior.
+
 ⭐ 2. Delivery Distance Is the Main Driver of Rejection
 
 Negative correlation remained stable:
@@ -75,6 +78,7 @@ Delivery_Distance	–0.30
 TotalDistance	–0.29
 
 ➡️ Longer travel distance reduces willingness to accept—high predictive value.
+
 ⭐ 3. Vendor-Level SLA Rules Impact Acceptance More Than Pricing
 
 TosiFood showed:
@@ -82,12 +86,14 @@ Extremely limited deadline minutes
 Correlation ≈ –0.99 with StartProposeToDeadlineMinutes
 
 ➡️ The vendor’s SLA constraints strongly suppress acceptance regardless of pricing.
+
 ⭐ 4. Propose-Deadline Adjustments Had Limited Measurable Effect
 
 Correlation between deadline minutes and acceptance:
 Stayed weak (≈ 0.07–0.09) before vs. after the change.
 
 ➡️ Vendor-specific structural issues overshadow global SLA adjustments.
+
 
 **📈 Visual Outputs**
 Heatmaps (pre-change, post-change, and full window) are stored in:
