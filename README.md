@@ -69,11 +69,17 @@ After the propose-deadline modification and pickup cost increase.
 Combined view to detect broader structural patterns.
 
 **🎛 Preprocessing Notes**
+
 NotApprovedBy dummy variables removed (they trivially correlate with acceptance = 0).
+
 Features normalized for comparability.
+
 Colormap: Red–White–Green
+
 Dark Red: strong negative correlation
+
 White: no correlation
+
 Dark Green: strong positive correlation
 
 **🔍 Key Insights**
