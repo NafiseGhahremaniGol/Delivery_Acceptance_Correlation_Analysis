@@ -1,5 +1,7 @@
 **📦 Delivery Acceptance Correlation Analysis**
+
 Analyzing the impact of SLA and pricing policy changes on delivery acceptance rates (Nov–Dec 2025)
+
 **📌 Project Overview**
 This project evaluates how two major operational and pricing interventions impacted driver acceptance behavior in a delivery platform.
 
@@ -89,6 +91,7 @@ Stayed weak (≈ 0.07–0.09) before vs. after the change.
 
 **📈 Visual Outputs**
 Heatmaps (pre-change, post-change, and full window) are stored in:
+
 reports/
 └── figures/
     ├── heatmap_pre_change.png
@@ -108,4 +111,5 @@ MIT License
 **👤 Author**
 Nafise Ghahremani Gol
 Product Data Analytics & Data Science
+
 <span style="color:red; font-weight:bold;">📬 Contact available through GitHub profile
